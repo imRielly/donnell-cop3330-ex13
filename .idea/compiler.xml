@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="donnell-cpo3330-ex13" />
+        <module name="donnell-cop3330-ex13" />
       </profile>
     </annotationProcessing>
   </component>
